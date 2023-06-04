@@ -3,17 +3,27 @@ h3 {color:#ffdb8b;
 }
 thead {color: #ffca86;}
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ccb3368e506ce81653a1a3e45b99564b4fe91081
 tbody {background-color:#ffca86;
 
 color:#baaf96;
 font-style: italic;
 }
 
+<<<<<<< HEAD
 footer > a {
 	text-decoration: none; }
 
 footer > a:hover {color:#ff2400;}
 
+=======
+footer > a{
+	text-decoration: none;}
+
+footer > a:hover {color:#ff2400;}
+>>>>>>> ccb3368e506ce81653a1a3e45b99564b4fe91081
     
 

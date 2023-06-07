@@ -10,5 +10,10 @@ tbody {background-color: #ffca86;
 font-style :italic;
 }
 
+footer > a {
+	text-decoration: nonel}
+
+footer > a:hover {color:#ff2400;}
+
     
 
